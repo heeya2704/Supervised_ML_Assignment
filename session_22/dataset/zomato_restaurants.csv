@@ -1,0 +1,1201 @@
+restaurant_name,location,cuisine,cost,rating,online_order,votes
+Restaurant_1,BTM,Chinese,,2.7,Yes,980
+Restaurant_2,Jayanagar,South Indian,650.0,3.5,Yes,2778
+Restaurant_3,Whitefield,Italian,580.0,3.5,Yes,2425
+Restaurant_4,BTM,Fast Food,,3.6,No,1974
+Restaurant_5,MG Road,Italian,790.0,3.5,No,2399
+Restaurant_6,Whitefield,Biryani,210.0,4.2,Yes,1838
+Restaurant_7,Whitefield,Chinese,510.0,2.6,Yes,313
+Restaurant_8,BTM,Biryani,380.0,3.4,No,773
+Restaurant_9,Indiranagar,Fast Food,350.0,3.2,No,1983
+Restaurant_10,MG Road,South Indian,910.0,3.7,Yes,825
+Restaurant_11,BTM,Fast Food,580.0,3.6,Yes,2169
+Restaurant_12,MG Road,North Indian,710.0,4.3,Yes,887
+Restaurant_13,MG Road,Fast Food,610.0,4.5,No,2987
+Restaurant_14,Whitefield,North Indian,360.0,3.3,Yes,712
+Restaurant_15,Jayanagar,Fast Food,320.0,3.6,Yes,2903
+Restaurant_16,MG Road,Continental,500.0,3.7,No,953
+Restaurant_17,HSR Layout,North Indian,510.0,3.2,No,2336
+Restaurant_18,Whitefield,Chinese,510.0,3.9,No,2439
+Restaurant_19,Indiranagar,Biryani,520.0,3.5,No,2070
+Restaurant_20,Jayanagar,Biryani,1260.0,3.1,Yes,312
+Restaurant_21,HSR Layout,Italian,870.0,3.5,Yes,1589
+Restaurant_22,HSR Layout,Biryani,650.0,3.2,Yes,169
+Restaurant_23,Indiranagar,South Indian,570.0,4.1,No,2211
+Restaurant_24,Jayanagar,Continental,580.0,4.5,Yes,2811
+Restaurant_25,Whitefield,Fast Food,780.0,3.7,No,2238
+Restaurant_26,Koramangala,Italian,570.0,3.7,Yes,1213
+Restaurant_27,Jayanagar,South Indian,840.0,3.7,No,2434
+Restaurant_28,Indiranagar,South Indian,670.0,4.1,Yes,2833
+Restaurant_29,HSR Layout,North Indian,1270.0,4.1,Yes,1201
+Restaurant_30,Whitefield,Biryani,11000.0,3.5,No,1183
+Restaurant_31,Jayanagar,Chinese,900.0,3.7,Yes,2073
+Restaurant_32,Koramangala,Chinese,390.0,3.9,No,1124
+Restaurant_33,Koramangala,Italian,460.0,3.1,Yes,1153
+Restaurant_34,MG Road,Continental,1190.0,,No,1989
+Restaurant_35,MG Road,Chinese,820.0,4.4,Yes,262
+Restaurant_36,BTM,Fast Food,710.0,4.1,Yes,1442
+Restaurant_37,Indiranagar,Chinese,1410.0,3.0,No,2088
+Restaurant_38,Jayanagar,Italian,580.0,2.7,Yes,740
+Restaurant_39,Jayanagar,Chinese,900.0,3.9,Yes,2346
+Restaurant_40,BTM,Fast Food,920.0,3.3,Yes,507
+Restaurant_41,HSR Layout,North Indian,1080.0,3.7,Yes,1438
+Restaurant_42,HSR Layout,Continental,380.0,4.3,Yes,557
+Restaurant_43,BTM,Italian,580.0,3.3,No,970
+Restaurant_44,HSR Layout,North Indian,670.0,3.4,Yes,141
+Restaurant_45,MG Road,North Indian,8500.0,3.7,Yes,1357
+Restaurant_46,Jayanagar,North Indian,700.0,3.0,Yes,867
+Restaurant_47,BTM,South Indian,920.0,3.3,Yes,1165
+Restaurant_48,Jayanagar,Continental,360.0,3.6,Yes,2042
+Restaurant_49,Koramangala,Biryani,530.0,3.5,No,530
+Restaurant_50,MG Road,Continental,990.0,3.9,No,39
+Restaurant_51,Whitefield,South Indian,550.0,4.8,Yes,2684
+Restaurant_52,MG Road,Biryani,590.0,3.6,Yes,2061
+Restaurant_53,BTM,Continental,1070.0,3.2,No,518
+Restaurant_54,Whitefield,North Indian,420.0,4.2,Yes,1270
+Restaurant_55,Koramangala,Italian,460.0,2.9,Yes,1568
+Restaurant_56,BTM,Biryani,350.0,3.0,Yes,25
+Restaurant_57,Indiranagar,Fast Food,1090.0,3.3,Yes,1006
+Restaurant_58,Jayanagar,Fast Food,870.0,3.5,No,1617
+Restaurant_59,Koramangala,Chinese,860.0,3.3,No,1849
+Restaurant_60,Jayanagar,Biryani,520.0,3.6,Yes,2026
+Restaurant_61,HSR Layout,Italian,340.0,3.7,Yes,1263
+Restaurant_62,Indiranagar,South Indian,310.0,4.1,No,1753
+Restaurant_63,Indiranagar,North Indian,990.0,3.6,No,2320
+Restaurant_64,Koramangala,Chinese,730.0,3.3,Yes,1098
+Restaurant_65,Indiranagar,Fast Food,790.0,4.1,Yes,2322
+Restaurant_66,Whitefield,South Indian,660.0,3.2,Yes,1371
+Restaurant_67,Indiranagar,South Indian,440.0,2.9,No,387
+Restaurant_68,Jayanagar,North Indian,530.0,4.1,No,1208
+Restaurant_69,Jayanagar,Biryani,400.0,4.1,Yes,485
+Restaurant_70,BTM,Fast Food,380.0,3.2,No,1299
+Restaurant_71,Jayanagar,Italian,840.0,3.4,Yes,338
+Restaurant_72,BTM,South Indian,320.0,3.2,Yes,1849
+Restaurant_73,Jayanagar,North Indian,400.0,3.7,Yes,1196
+Restaurant_74,Whitefield,Italian,540.0,4.4,Yes,447
+Restaurant_75,BTM,Biryani,610.0,3.9,Yes,1400
+Restaurant_76,MG Road,Fast Food,350.0,4.1,Yes,1783
+Restaurant_77,HSR Layout,Biryani,320.0,4.0,Yes,1232
+Restaurant_78,Koramangala,South Indian,700.0,3.6,Yes,1533
+Restaurant_79,Jayanagar,Italian,640.0,4.1,Yes,2073
+Restaurant_80,Indiranagar,Italian,980.0,3.9,Yes,1854
+Restaurant_81,Jayanagar,Italian,620.0,4.2,Yes,1329
+Restaurant_82,Indiranagar,South Indian,730.0,3.4,Yes,877
+Restaurant_83,HSR Layout,South Indian,450.0,2.8,Yes,2568
+Restaurant_84,HSR Layout,Biryani,450.0,4.1,No,1821
+Restaurant_85,HSR Layout,Chinese,360.0,3.8,No,993
+Restaurant_86,Indiranagar,Biryani,450.0,3.5,No,1272
+Restaurant_87,Jayanagar,Fast Food,530.0,3.5,Yes,2638
+Restaurant_88,HSR Layout,North Indian,,4.7,Yes,1334
+Restaurant_89,Whitefield,Italian,420.0,3.3,No,2063
+Restaurant_90,BTM,Chinese,1290.0,3.2,Yes,1028
+Restaurant_91,Indiranagar,North Indian,750.0,3.6,Yes,1799
+Restaurant_92,Indiranagar,Chinese,690.0,4.1,Yes,816
+Restaurant_93,Jayanagar,Continental,600.0,4.6,No,1903
+Restaurant_94,Indiranagar,Biryani,560.0,3.9,Yes,1419
+Restaurant_95,Indiranagar,South Indian,470.0,3.0,No,2676
+Restaurant_96,HSR Layout,Italian,340.0,4.5,No,1328
+Restaurant_97,Jayanagar,Biryani,430.0,,Yes,1151
+Restaurant_98,HSR Layout,North Indian,1080.0,3.2,No,414
+Restaurant_99,BTM,Continental,730.0,3.1,Yes,1796
+Restaurant_100,BTM,Continental,1080.0,4.0,No,603
+Restaurant_101,HSR Layout,Continental,470.0,3.7,Yes,2623
+Restaurant_102,BTM,North Indian,400.0,3.8,No,2809
+Restaurant_103,Jayanagar,North Indian,600.0,4.2,Yes,21
+Restaurant_104,Koramangala,North Indian,440.0,3.2,No,2222
+Restaurant_105,HSR Layout,North Indian,650.0,4.2,Yes,2935
+Restaurant_106,Whitefield,Continental,320.0,3.4,Yes,1327
+Restaurant_107,Whitefield,Continental,270.0,4.6,No,1552
+Restaurant_108,Indiranagar,Chinese,680.0,3.9,No,2135
+Restaurant_109,BTM,Biryani,1100.0,3.2,Yes,623
+Restaurant_110,Whitefield,Italian,690.0,2.7,Yes,1996
+Restaurant_111,Indiranagar,South Indian,730.0,4.0,Yes,878
+Restaurant_112,Koramangala,Continental,610.0,3.4,No,821
+Restaurant_113,Jayanagar,South Indian,630.0,3.5,No,1832
+Restaurant_114,Jayanagar,Biryani,340.0,3.9,No,776
+Restaurant_115,Jayanagar,Biryani,440.0,4.1,Yes,91
+Restaurant_116,Whitefield,South Indian,940.0,4.2,Yes,1754
+Restaurant_117,Koramangala,Continental,380.0,3.1,Yes,2266
+Restaurant_118,Whitefield,South Indian,520.0,4.2,No,531
+Restaurant_119,BTM,Chinese,930.0,3.3,Yes,1337
+Restaurant_120,Whitefield,Fast Food,620.0,2.6,No,1003
+Restaurant_121,Koramangala,Continental,640.0,3.1,Yes,2522
+Restaurant_122,Koramangala,Continental,520.0,3.7,Yes,1535
+Restaurant_123,BTM,Italian,770.0,3.2,Yes,1479
+Restaurant_124,Koramangala,North Indian,,3.6,Yes,2685
+Restaurant_125,Koramangala,Fast Food,430.0,3.8,Yes,1523
+Restaurant_126,Jayanagar,Biryani,350.0,3.5,Yes,790
+Restaurant_127,BTM,Continental,290.0,3.4,Yes,1461
+Restaurant_128,MG Road,South Indian,720.0,3.0,No,568
+Restaurant_129,MG Road,Fast Food,690.0,3.6,Yes,2148
+Restaurant_130,Koramangala,Italian,1450.0,2.7,Yes,2047
+Restaurant_131,MG Road,Biryani,610.0,3.3,Yes,1763
+Restaurant_132,MG Road,North Indian,570.0,3.2,Yes,869
+Restaurant_133,Koramangala,North Indian,650.0,3.5,No,1622
+Restaurant_134,MG Road,Italian,670.0,3.5,Yes,565
+Restaurant_135,Whitefield,Italian,550.0,4.0,No,165
+Restaurant_136,Indiranagar,South Indian,440.0,4.3,Yes,2059
+Restaurant_137,BTM,Continental,600.0,3.1,Yes,1390
+Restaurant_138,Indiranagar,North Indian,590.0,4.5,Yes,834
+Restaurant_139,Koramangala,Biryani,580.0,3.2,Yes,1602
+Restaurant_140,Jayanagar,Fast Food,810.0,3.7,Yes,2859
+Restaurant_141,BTM,Biryani,590.0,3.8,No,1091
+Restaurant_142,Koramangala,Chinese,350.0,4.7,Yes,1213
+Restaurant_143,Jayanagar,Chinese,460.0,3.4,Yes,502
+Restaurant_144,Indiranagar,Italian,550.0,2.8,Yes,678
+Restaurant_145,Koramangala,South Indian,600.0,4.3,Yes,84
+Restaurant_146,BTM,Chinese,720.0,3.2,Yes,380
+Restaurant_147,BTM,North Indian,600.0,3.4,Yes,596
+Restaurant_148,HSR Layout,Biryani,270.0,3.1,Yes,338
+Restaurant_149,Whitefield,Biryani,370.0,3.4,Yes,599
+Restaurant_150,MG Road,Italian,740.0,3.2,No,1800
+Restaurant_151,Jayanagar,Continental,540.0,3.9,No,786
+Restaurant_152,HSR Layout,Continental,630.0,3.6,Yes,2032
+Restaurant_153,MG Road,Fast Food,520.0,3.3,Yes,2361
+Restaurant_154,MG Road,Italian,460.0,4.0,No,588
+Restaurant_155,Koramangala,Fast Food,520.0,3.7,Yes,230
+Restaurant_156,MG Road,Continental,630.0,2.8,Yes,1197
+Restaurant_157,Whitefield,Italian,590.0,4.0,Yes,1513
+Restaurant_158,BTM,Italian,850.0,3.7,Yes,2432
+Restaurant_159,HSR Layout,Italian,330.0,4.2,Yes,1717
+Restaurant_160,MG Road,Continental,340.0,3.7,No,1755
+Restaurant_161,Koramangala,Fast Food,540.0,3.2,No,197
+Restaurant_162,Whitefield,Fast Food,730.0,3.5,No,1224
+Restaurant_163,Indiranagar,Italian,790.0,4.0,No,1119
+Restaurant_164,BTM,Chinese,470.0,3.3,Yes,2531
+Restaurant_165,BTM,South Indian,220.0,3.4,Yes,853
+Restaurant_166,HSR Layout,Continental,480.0,3.5,No,540
+Restaurant_167,BTM,South Indian,690.0,3.1,No,1080
+Restaurant_168,MG Road,South Indian,590.0,3.3,Yes,972
+Restaurant_169,Koramangala,Fast Food,740.0,3.7,No,2532
+Restaurant_170,BTM,Fast Food,930.0,4.1,Yes,1179
+Restaurant_171,BTM,Chinese,550.0,3.7,Yes,1415
+Restaurant_172,Indiranagar,South Indian,500.0,3.6,Yes,526
+Restaurant_173,Indiranagar,South Indian,420.0,3.2,Yes,1898
+Restaurant_174,Jayanagar,Italian,340.0,4.1,Yes,2483
+Restaurant_175,Whitefield,Fast Food,310.0,3.8,Yes,1501
+Restaurant_176,MG Road,South Indian,450.0,3.3,Yes,1127
+Restaurant_177,BTM,Biryani,870.0,4.0,Yes,142
+Restaurant_178,BTM,Chinese,760.0,3.9,Yes,323
+Restaurant_179,Koramangala,Biryani,490.0,3.2,No,600
+Restaurant_180,Jayanagar,Biryani,1300.0,3.6,Yes,1553
+Restaurant_181,Whitefield,Continental,460.0,3.4,Yes,2216
+Restaurant_182,Jayanagar,Continental,960.0,4.8,Yes,2718
+Restaurant_183,HSR Layout,Chinese,1060.0,3.8,Yes,1895
+Restaurant_184,Whitefield,Biryani,700.0,3.7,No,1636
+Restaurant_185,BTM,South Indian,450.0,3.8,Yes,757
+Restaurant_186,BTM,Fast Food,510.0,4.2,No,1507
+Restaurant_187,Whitefield,Chinese,630.0,3.6,Yes,810
+Restaurant_188,BTM,Italian,350.0,3.3,Yes,2467
+Restaurant_189,MG Road,Biryani,400.0,4.0,Yes,1507
+Restaurant_190,Whitefield,Chinese,390.0,3.5,Yes,1389
+Restaurant_191,Jayanagar,North Indian,730.0,3.1,Yes,689
+Restaurant_192,Whitefield,North Indian,920.0,3.0,Yes,2171
+Restaurant_193,BTM,Continental,780.0,4.3,Yes,906
+Restaurant_194,MG Road,Fast Food,,3.7,Yes,1556
+Restaurant_195,MG Road,South Indian,440.0,3.3,No,1803
+Restaurant_196,HSR Layout,Fast Food,520.0,3.5,Yes,2122
+Restaurant_197,Jayanagar,Fast Food,530.0,4.0,Yes,693
+Restaurant_198,Indiranagar,Fast Food,700.0,3.5,Yes,1305
+Restaurant_199,Indiranagar,Fast Food,460.0,2.9,Yes,1695
+Restaurant_200,Whitefield,Italian,840.0,3.7,Yes,1395
+Restaurant_201,HSR Layout,Italian,1040.0,4.1,No,2203
+Restaurant_202,Koramangala,Continental,720.0,4.1,No,952
+Restaurant_203,Whitefield,Chinese,510.0,3.3,Yes,1319
+Restaurant_204,HSR Layout,North Indian,420.0,4.2,Yes,1043
+Restaurant_205,Jayanagar,Fast Food,390.0,3.7,Yes,2796
+Restaurant_206,Jayanagar,Continental,280.0,4.2,Yes,2243
+Restaurant_207,Jayanagar,Chinese,540.0,3.9,Yes,1630
+Restaurant_208,Jayanagar,North Indian,530.0,2.9,Yes,2892
+Restaurant_209,Jayanagar,Biryani,820.0,4.4,Yes,818
+Restaurant_210,HSR Layout,South Indian,470.0,3.6,No,180
+Restaurant_211,HSR Layout,Italian,550.0,3.9,Yes,2270
+Restaurant_212,MG Road,Biryani,660.0,3.0,Yes,1563
+Restaurant_213,Indiranagar,North Indian,710.0,3.8,No,1605
+Restaurant_214,BTM,Biryani,780.0,4.1,Yes,1633
+Restaurant_215,Jayanagar,South Indian,630.0,4.5,No,36
+Restaurant_216,Koramangala,Continental,350.0,4.2,Yes,1023
+Restaurant_217,BTM,North Indian,690.0,3.8,No,1101
+Restaurant_218,HSR Layout,Biryani,460.0,2.9,No,2847
+Restaurant_219,Koramangala,Italian,940.0,3.7,Yes,417
+Restaurant_220,Koramangala,Italian,590.0,3.3,No,1142
+Restaurant_221,Koramangala,Chinese,650.0,3.7,Yes,83
+Restaurant_222,MG Road,Biryani,1500.0,3.1,No,2635
+Restaurant_223,HSR Layout,Fast Food,790.0,3.5,Yes,689
+Restaurant_224,Koramangala,Biryani,680.0,3.4,Yes,1401
+Restaurant_225,Jayanagar,Continental,560.0,3.4,Yes,2843
+Restaurant_226,Whitefield,North Indian,360.0,,No,858
+Restaurant_227,Koramangala,North Indian,540.0,3.5,Yes,879
+Restaurant_228,MG Road,Continental,420.0,3.7,No,246
+Restaurant_229,BTM,Biryani,1100.0,2.5,No,2784
+Restaurant_230,HSR Layout,Continental,690.0,2.5,Yes,2435
+Restaurant_231,MG Road,South Indian,930.0,3.4,No,2718
+Restaurant_232,Koramangala,Continental,460.0,3.5,No,2887
+Restaurant_233,HSR Layout,Italian,430.0,3.7,Yes,915
+Restaurant_234,Whitefield,Continental,760.0,3.3,Yes,2433
+Restaurant_235,Koramangala,North Indian,420.0,3.6,Yes,628
+Restaurant_236,MG Road,Italian,500.0,3.7,Yes,2710
+Restaurant_237,Indiranagar,North Indian,1120.0,3.3,Yes,1042
+Restaurant_238,Jayanagar,Chinese,500.0,4.1,Yes,2253
+Restaurant_239,BTM,Fast Food,340.0,3.7,Yes,2864
+Restaurant_240,MG Road,North Indian,300.0,3.8,Yes,2950
+Restaurant_241,HSR Layout,Italian,320.0,3.6,Yes,1323
+Restaurant_242,Koramangala,Chinese,950.0,4.5,No,2994
+Restaurant_243,Jayanagar,North Indian,470.0,3.9,No,856
+Restaurant_244,Koramangala,South Indian,1480.0,3.4,Yes,2875
+Restaurant_245,HSR Layout,Continental,1050.0,4.0,No,1933
+Restaurant_246,Koramangala,Fast Food,1230.0,2.9,No,2621
+Restaurant_247,Indiranagar,North Indian,870.0,3.7,No,643
+Restaurant_248,Jayanagar,Chinese,740.0,3.7,Yes,2736
+Restaurant_249,Jayanagar,South Indian,430.0,3.7,Yes,1027
+Restaurant_250,HSR Layout,Biryani,590.0,,No,17
+Restaurant_251,BTM,Chinese,770.0,3.1,No,1402
+Restaurant_252,Indiranagar,Continental,850.0,3.2,No,1078
+Restaurant_253,MG Road,Chinese,380.0,3.6,No,2401
+Restaurant_254,Koramangala,South Indian,550.0,3.1,Yes,1790
+Restaurant_255,Whitefield,Chinese,570.0,4.4,Yes,2853
+Restaurant_256,Koramangala,South Indian,560.0,2.4,Yes,1652
+Restaurant_257,Koramangala,North Indian,390.0,3.5,Yes,1226
+Restaurant_258,MG Road,South Indian,1170.0,3.6,No,858
+Restaurant_259,Koramangala,South Indian,540.0,3.8,Yes,1390
+Restaurant_260,Indiranagar,Fast Food,400.0,3.2,Yes,71
+Restaurant_261,Indiranagar,South Indian,1180.0,4.1,No,1095
+Restaurant_262,Jayanagar,South Indian,1050.0,3.0,Yes,2479
+Restaurant_263,HSR Layout,Biryani,620.0,3.3,No,1827
+Restaurant_264,BTM,North Indian,300.0,3.9,No,642
+Restaurant_265,Whitefield,Continental,490.0,4.1,Yes,801
+Restaurant_266,Koramangala,Fast Food,320.0,3.0,Yes,2608
+Restaurant_267,Koramangala,Biryani,720.0,4.8,Yes,1310
+Restaurant_268,MG Road,Italian,480.0,3.2,Yes,2663
+Restaurant_269,HSR Layout,North Indian,580.0,3.0,Yes,1464
+Restaurant_270,Indiranagar,North Indian,1140.0,3.8,Yes,1148
+Restaurant_271,Whitefield,Italian,470.0,3.4,No,1721
+Restaurant_272,Jayanagar,Continental,710.0,3.4,Yes,534
+Restaurant_273,Indiranagar,South Indian,790.0,3.9,No,2030
+Restaurant_274,HSR Layout,Biryani,940.0,2.9,Yes,908
+Restaurant_275,BTM,Chinese,570.0,2.8,Yes,2220
+Restaurant_276,Jayanagar,Fast Food,540.0,3.3,No,796
+Restaurant_277,BTM,Chinese,540.0,4.1,Yes,2967
+Restaurant_278,MG Road,Italian,680.0,3.4,Yes,1370
+Restaurant_279,MG Road,North Indian,1030.0,4.3,No,2436
+Restaurant_280,Koramangala,Continental,530.0,4.1,No,182
+Restaurant_281,BTM,North Indian,230.0,3.7,No,1009
+Restaurant_282,HSR Layout,Fast Food,830.0,3.8,Yes,1820
+Restaurant_283,Whitefield,North Indian,610.0,3.7,Yes,73
+Restaurant_284,Jayanagar,North Indian,720.0,3.7,No,1355
+Restaurant_285,Indiranagar,Fast Food,320.0,3.4,No,984
+Restaurant_286,HSR Layout,Biryani,480.0,3.5,Yes,75
+Restaurant_287,HSR Layout,Biryani,800.0,3.1,No,1876
+Restaurant_288,MG Road,Fast Food,360.0,2.6,Yes,1632
+Restaurant_289,BTM,Continental,710.0,4.1,Yes,467
+Restaurant_290,Koramangala,Italian,580.0,3.7,Yes,1612
+Restaurant_291,Koramangala,North Indian,440.0,3.6,Yes,2510
+Restaurant_292,Jayanagar,Continental,430.0,3.8,Yes,1967
+Restaurant_293,MG Road,North Indian,400.0,3.2,Yes,1750
+Restaurant_294,HSR Layout,Italian,600.0,3.1,Yes,1459
+Restaurant_295,Whitefield,Biryani,630.0,3.5,No,1969
+Restaurant_296,MG Road,Continental,510.0,4.2,No,2235
+Restaurant_297,Jayanagar,South Indian,390.0,3.1,Yes,1964
+Restaurant_298,Jayanagar,South Indian,700.0,2.4,No,289
+Restaurant_299,MG Road,South Indian,830.0,3.4,Yes,2401
+Restaurant_300,Jayanagar,Biryani,750.0,4.1,Yes,1050
+Restaurant_301,MG Road,Biryani,1250.0,2.8,No,2353
+Restaurant_302,Indiranagar,Italian,550.0,3.1,Yes,2259
+Restaurant_303,MG Road,North Indian,990.0,3.7,Yes,971
+Restaurant_304,BTM,Italian,460.0,4.8,Yes,2741
+Restaurant_305,MG Road,Italian,430.0,3.0,No,1952
+Restaurant_306,Jayanagar,Biryani,620.0,3.0,Yes,1227
+Restaurant_307,BTM,South Indian,1080.0,3.8,No,384
+Restaurant_308,Jayanagar,Chinese,530.0,4.1,Yes,1921
+Restaurant_309,Koramangala,North Indian,320.0,3.3,No,44
+Restaurant_310,Koramangala,Biryani,830.0,2.9,No,1402
+Restaurant_311,BTM,South Indian,570.0,3.8,No,2086
+Restaurant_312,Indiranagar,Continental,660.0,3.9,Yes,784
+Restaurant_313,Koramangala,Chinese,440.0,4.4,Yes,230
+Restaurant_314,MG Road,Chinese,14000.0,3.9,No,2110
+Restaurant_315,Jayanagar,Biryani,340.0,4.0,Yes,2848
+Restaurant_316,Koramangala,Fast Food,1180.0,3.5,Yes,2133
+Restaurant_317,Koramangala,North Indian,890.0,4.7,Yes,503
+Restaurant_318,Indiranagar,Chinese,610.0,3.4,No,1721
+Restaurant_319,BTM,Biryani,820.0,3.3,Yes,2174
+Restaurant_320,BTM,Biryani,460.0,4.4,Yes,289
+Restaurant_321,HSR Layout,South Indian,870.0,2.9,Yes,755
+Restaurant_322,Indiranagar,Continental,520.0,2.8,Yes,2821
+Restaurant_323,MG Road,Fast Food,500.0,3.7,No,2352
+Restaurant_324,BTM,North Indian,400.0,3.6,Yes,1484
+Restaurant_325,Jayanagar,Italian,690.0,3.5,Yes,1867
+Restaurant_326,Indiranagar,Continental,600.0,4.0,No,1551
+Restaurant_327,Koramangala,Continental,1000.0,3.2,No,1106
+Restaurant_328,Jayanagar,South Indian,390.0,3.6,Yes,2899
+Restaurant_329,Jayanagar,Chinese,700.0,3.4,No,1069
+Restaurant_330,Koramangala,Chinese,920.0,3.2,No,1932
+Restaurant_331,Indiranagar,South Indian,1490.0,3.6,No,2015
+Restaurant_332,Koramangala,Biryani,640.0,4.0,Yes,506
+Restaurant_333,HSR Layout,Chinese,510.0,4.6,Yes,2263
+Restaurant_334,Jayanagar,Fast Food,630.0,3.9,No,2483
+Restaurant_335,Whitefield,North Indian,970.0,2.5,No,53
+Restaurant_336,Whitefield,Continental,970.0,3.6,Yes,1861
+Restaurant_337,MG Road,Continental,560.0,3.6,Yes,2662
+Restaurant_338,BTM,Fast Food,960.0,4.0,Yes,463
+Restaurant_339,Koramangala,Chinese,580.0,3.7,Yes,604
+Restaurant_340,Koramangala,Continental,9900.0,4.2,Yes,1366
+Restaurant_341,MG Road,Italian,730.0,,Yes,516
+Restaurant_342,MG Road,North Indian,510.0,4.3,No,803
+Restaurant_343,MG Road,North Indian,410.0,3.4,Yes,30
+Restaurant_344,Jayanagar,Continental,930.0,3.7,No,1409
+Restaurant_345,HSR Layout,South Indian,1040.0,4.0,Yes,2677
+Restaurant_346,Koramangala,Continental,690.0,3.3,Yes,2471
+Restaurant_347,Jayanagar,South Indian,580.0,3.2,Yes,1104
+Restaurant_348,MG Road,Continental,370.0,3.3,Yes,1437
+Restaurant_349,Koramangala,Italian,920.0,3.3,No,1595
+Restaurant_350,Jayanagar,Biryani,660.0,3.8,No,1824
+Restaurant_351,HSR Layout,North Indian,530.0,2.8,Yes,1430
+Restaurant_352,Jayanagar,Continental,820.0,2.9,Yes,346
+Restaurant_353,HSR Layout,Italian,350.0,4.4,Yes,1677
+Restaurant_354,MG Road,South Indian,400.0,3.3,No,919
+Restaurant_355,HSR Layout,South Indian,450.0,3.7,No,285
+Restaurant_356,Koramangala,North Indian,720.0,2.9,Yes,901
+Restaurant_357,MG Road,Fast Food,630.0,3.6,No,22
+Restaurant_358,Koramangala,Continental,750.0,3.3,No,1036
+Restaurant_359,Whitefield,Chinese,900.0,2.9,Yes,983
+Restaurant_360,Indiranagar,South Indian,760.0,4.2,Yes,184
+Restaurant_361,HSR Layout,Biryani,1190.0,4.1,No,1418
+Restaurant_362,Indiranagar,Biryani,900.0,3.6,No,1635
+Restaurant_363,Indiranagar,South Indian,560.0,4.0,Yes,1953
+Restaurant_364,HSR Layout,Fast Food,480.0,4.5,Yes,2298
+Restaurant_365,MG Road,Fast Food,570.0,3.9,Yes,556
+Restaurant_366,Whitefield,Italian,770.0,3.8,Yes,2071
+Restaurant_367,Koramangala,Biryani,500.0,3.7,No,1228
+Restaurant_368,Jayanagar,Italian,780.0,3.9,Yes,1430
+Restaurant_369,Koramangala,Biryani,750.0,3.4,No,1464
+Restaurant_370,Jayanagar,Continental,410.0,3.5,No,2782
+Restaurant_371,Koramangala,Continental,890.0,3.8,Yes,1443
+Restaurant_372,HSR Layout,Chinese,680.0,3.4,Yes,12
+Restaurant_373,Whitefield,Continental,1160.0,3.4,Yes,2748
+Restaurant_374,Jayanagar,Chinese,590.0,3.6,No,1852
+Restaurant_375,BTM,Continental,520.0,4.1,Yes,756
+Restaurant_376,MG Road,North Indian,390.0,3.1,Yes,2826
+Restaurant_377,Koramangala,Continental,390.0,3.9,No,881
+Restaurant_378,Koramangala,Italian,850.0,4.0,Yes,504
+Restaurant_379,Jayanagar,South Indian,1110.0,4.0,No,2474
+Restaurant_380,MG Road,Italian,570.0,3.2,No,1424
+Restaurant_381,MG Road,South Indian,550.0,2.8,Yes,637
+Restaurant_382,HSR Layout,Fast Food,610.0,3.9,Yes,1085
+Restaurant_383,BTM,Italian,910.0,3.7,No,151
+Restaurant_384,HSR Layout,Fast Food,410.0,4.1,No,1497
+Restaurant_385,HSR Layout,Chinese,650.0,3.3,Yes,55
+Restaurant_386,HSR Layout,Chinese,850.0,3.9,Yes,2901
+Restaurant_387,HSR Layout,North Indian,720.0,4.1,Yes,2067
+Restaurant_388,HSR Layout,Continental,220.0,3.6,No,673
+Restaurant_389,Whitefield,Italian,760.0,3.8,Yes,582
+Restaurant_390,MG Road,Fast Food,720.0,3.8,Yes,2039
+Restaurant_391,HSR Layout,South Indian,990.0,3.2,No,1563
+Restaurant_392,MG Road,Chinese,1070.0,3.8,Yes,1631
+Restaurant_393,MG Road,Continental,970.0,4.3,Yes,2706
+Restaurant_394,Indiranagar,Chinese,610.0,3.6,Yes,922
+Restaurant_395,Whitefield,South Indian,320.0,2.9,No,649
+Restaurant_396,HSR Layout,Continental,1300.0,3.3,Yes,2673
+Restaurant_397,Koramangala,Continental,550.0,2.8,No,2755
+Restaurant_398,Jayanagar,Fast Food,600.0,4.2,No,918
+Restaurant_399,BTM,Fast Food,1110.0,3.9,Yes,2235
+Restaurant_400,Koramangala,Italian,440.0,3.4,Yes,878
+Restaurant_401,Whitefield,Italian,350.0,3.0,Yes,1039
+Restaurant_402,Jayanagar,Biryani,500.0,3.2,Yes,862
+Restaurant_403,Whitefield,Biryani,450.0,,No,316
+Restaurant_404,MG Road,North Indian,340.0,3.6,No,2605
+Restaurant_405,Jayanagar,Chinese,570.0,3.6,Yes,2384
+Restaurant_406,MG Road,Italian,610.0,4.2,Yes,1826
+Restaurant_407,Koramangala,Fast Food,330.0,3.3,Yes,404
+Restaurant_408,Koramangala,South Indian,520.0,2.9,No,2357
+Restaurant_409,Jayanagar,Fast Food,440.0,3.1,Yes,758
+Restaurant_410,Jayanagar,Chinese,280.0,3.6,Yes,2342
+Restaurant_411,HSR Layout,Biryani,620.0,3.3,Yes,339
+Restaurant_412,Whitefield,Fast Food,640.0,3.5,Yes,2107
+Restaurant_413,HSR Layout,North Indian,440.0,3.4,Yes,2041
+Restaurant_414,Whitefield,Chinese,890.0,4.0,Yes,782
+Restaurant_415,HSR Layout,Biryani,590.0,3.3,Yes,1655
+Restaurant_416,MG Road,South Indian,450.0,3.4,No,1742
+Restaurant_417,Jayanagar,Biryani,330.0,3.9,Yes,387
+Restaurant_418,Koramangala,Continental,650.0,3.3,Yes,1797
+Restaurant_419,Whitefield,North Indian,720.0,3.8,Yes,1633
+Restaurant_420,Whitefield,Chinese,490.0,3.7,Yes,1009
+Restaurant_421,Koramangala,South Indian,620.0,3.7,Yes,1858
+Restaurant_422,HSR Layout,North Indian,1070.0,3.1,Yes,1571
+Restaurant_423,Whitefield,Biryani,830.0,4.2,Yes,783
+Restaurant_424,BTM,North Indian,260.0,4.6,Yes,1093
+Restaurant_425,MG Road,Chinese,440.0,3.6,Yes,2925
+Restaurant_426,Jayanagar,Italian,560.0,3.1,Yes,1813
+Restaurant_427,Koramangala,North Indian,610.0,3.6,No,1108
+Restaurant_428,Jayanagar,Continental,630.0,4.0,Yes,2060
+Restaurant_429,BTM,North Indian,700.0,3.3,Yes,1608
+Restaurant_430,Whitefield,Biryani,570.0,3.5,Yes,757
+Restaurant_431,Whitefield,Biryani,590.0,3.8,Yes,1481
+Restaurant_432,BTM,South Indian,850.0,4.1,Yes,1774
+Restaurant_433,Koramangala,Biryani,660.0,3.9,Yes,2332
+Restaurant_434,MG Road,Fast Food,380.0,4.0,No,1563
+Restaurant_435,Indiranagar,Chinese,620.0,3.4,Yes,1625
+Restaurant_436,Koramangala,Chinese,560.0,3.8,Yes,2272
+Restaurant_437,Indiranagar,Italian,280.0,3.3,No,1518
+Restaurant_438,BTM,Italian,630.0,4.0,No,338
+Restaurant_439,HSR Layout,Chinese,390.0,4.1,Yes,2312
+Restaurant_440,Indiranagar,Continental,850.0,3.8,Yes,1420
+Restaurant_441,MG Road,Italian,700.0,3.4,Yes,135
+Restaurant_442,HSR Layout,South Indian,370.0,3.5,Yes,776
+Restaurant_443,Indiranagar,Biryani,840.0,4.4,Yes,1583
+Restaurant_444,BTM,Chinese,,3.4,Yes,1237
+Restaurant_445,HSR Layout,Italian,540.0,4.1,No,1205
+Restaurant_446,BTM,Chinese,560.0,3.8,Yes,1768
+Restaurant_447,Indiranagar,Fast Food,800.0,3.4,Yes,226
+Restaurant_448,BTM,North Indian,960.0,3.0,Yes,1369
+Restaurant_449,MG Road,Biryani,310.0,3.7,No,1331
+Restaurant_450,Indiranagar,Chinese,380.0,3.6,Yes,841
+Restaurant_451,Indiranagar,North Indian,500.0,4.4,Yes,191
+Restaurant_452,Indiranagar,Italian,520.0,3.2,Yes,343
+Restaurant_453,Koramangala,North Indian,790.0,4.6,Yes,520
+Restaurant_454,Koramangala,Biryani,960.0,3.8,Yes,392
+Restaurant_455,Koramangala,Chinese,990.0,3.8,Yes,1906
+Restaurant_456,MG Road,Fast Food,310.0,3.3,Yes,341
+Restaurant_457,HSR Layout,Continental,430.0,3.7,Yes,1198
+Restaurant_458,BTM,Italian,360.0,3.8,Yes,1275
+Restaurant_459,Whitefield,Chinese,470.0,4.0,No,909
+Restaurant_460,Indiranagar,Biryani,430.0,3.2,Yes,651
+Restaurant_461,BTM,Italian,690.0,4.2,Yes,1260
+Restaurant_462,Indiranagar,South Indian,730.0,3.8,Yes,643
+Restaurant_463,MG Road,North Indian,590.0,3.9,Yes,2508
+Restaurant_464,Indiranagar,Continental,570.0,3.5,No,205
+Restaurant_465,Koramangala,Biryani,510.0,3.2,Yes,1903
+Restaurant_466,Whitefield,South Indian,530.0,3.6,Yes,467
+Restaurant_467,Jayanagar,Chinese,1070.0,3.7,Yes,839
+Restaurant_468,Indiranagar,Fast Food,770.0,3.0,No,2314
+Restaurant_469,BTM,Italian,520.0,4.0,No,2066
+Restaurant_470,Koramangala,North Indian,570.0,4.0,Yes,2818
+Restaurant_471,Jayanagar,Italian,700.0,3.3,Yes,1234
+Restaurant_472,Whitefield,Continental,370.0,3.1,Yes,896
+Restaurant_473,Jayanagar,Chinese,,3.5,Yes,402
+Restaurant_474,Koramangala,Italian,750.0,3.6,No,1685
+Restaurant_475,HSR Layout,North Indian,720.0,3.5,Yes,2456
+Restaurant_476,HSR Layout,Chinese,430.0,3.6,Yes,2388
+Restaurant_477,Jayanagar,Italian,460.0,3.7,No,2537
+Restaurant_478,MG Road,Fast Food,270.0,3.0,No,2191
+Restaurant_479,BTM,Biryani,790.0,3.0,Yes,925
+Restaurant_480,BTM,Chinese,1260.0,2.4,No,944
+Restaurant_481,Jayanagar,Biryani,410.0,4.0,Yes,364
+Restaurant_482,Indiranagar,Chinese,890.0,3.6,No,2641
+Restaurant_483,Indiranagar,Fast Food,1210.0,4.1,No,1531
+Restaurant_484,BTM,Biryani,490.0,,Yes,2682
+Restaurant_485,BTM,South Indian,570.0,,No,2347
+Restaurant_486,HSR Layout,North Indian,650.0,3.7,No,2882
+Restaurant_487,MG Road,South Indian,710.0,3.3,Yes,638
+Restaurant_488,Koramangala,Italian,660.0,2.9,Yes,2689
+Restaurant_489,Indiranagar,Fast Food,510.0,4.4,No,1180
+Restaurant_490,BTM,South Indian,750.0,4.2,Yes,336
+Restaurant_491,HSR Layout,Chinese,510.0,3.4,Yes,1448
+Restaurant_492,Whitefield,Italian,680.0,3.8,No,2267
+Restaurant_493,HSR Layout,Italian,580.0,3.4,No,1431
+Restaurant_494,Indiranagar,South Indian,,3.2,Yes,1136
+Restaurant_495,Indiranagar,South Indian,950.0,4.4,Yes,2693
+Restaurant_496,HSR Layout,Fast Food,470.0,2.9,Yes,1790
+Restaurant_497,Koramangala,North Indian,990.0,3.5,Yes,1541
+Restaurant_498,Jayanagar,South Indian,880.0,3.6,Yes,1924
+Restaurant_499,Indiranagar,Continental,640.0,4.3,No,2925
+Restaurant_500,HSR Layout,South Indian,720.0,4.0,Yes,1242
+Restaurant_501,BTM,Biryani,760.0,2.8,Yes,1966
+Restaurant_502,HSR Layout,Chinese,550.0,3.6,Yes,2485
+Restaurant_503,MG Road,Continental,560.0,3.6,No,402
+Restaurant_504,Jayanagar,Continental,740.0,3.5,Yes,835
+Restaurant_505,Whitefield,Biryani,590.0,3.9,Yes,2973
+Restaurant_506,Koramangala,Biryani,510.0,3.0,Yes,1922
+Restaurant_507,Whitefield,Italian,440.0,3.4,Yes,2405
+Restaurant_508,Jayanagar,North Indian,690.0,3.8,Yes,59
+Restaurant_509,Jayanagar,Chinese,460.0,3.9,Yes,2973
+Restaurant_510,Jayanagar,Fast Food,820.0,3.7,Yes,1406
+Restaurant_511,Whitefield,Continental,850.0,3.5,Yes,1060
+Restaurant_512,BTM,Fast Food,,3.5,Yes,809
+Restaurant_513,Jayanagar,South Indian,780.0,3.9,Yes,1802
+Restaurant_514,HSR Layout,South Indian,720.0,3.6,Yes,2706
+Restaurant_515,Whitefield,Fast Food,800.0,3.1,Yes,1373
+Restaurant_516,Jayanagar,South Indian,790.0,3.0,Yes,2358
+Restaurant_517,HSR Layout,North Indian,680.0,2.9,Yes,1575
+Restaurant_518,BTM,Biryani,880.0,4.3,Yes,2223
+Restaurant_519,MG Road,South Indian,550.0,4.0,Yes,2373
+Restaurant_520,BTM,Italian,440.0,3.6,Yes,10
+Restaurant_521,Jayanagar,South Indian,430.0,3.4,Yes,1029
+Restaurant_522,Whitefield,Chinese,520.0,3.3,No,1294
+Restaurant_523,Indiranagar,North Indian,280.0,4.1,No,72
+Restaurant_524,Jayanagar,Chinese,640.0,4.5,Yes,2540
+Restaurant_525,Indiranagar,Chinese,760.0,3.3,Yes,1879
+Restaurant_526,HSR Layout,Italian,840.0,4.1,Yes,2279
+Restaurant_527,MG Road,North Indian,310.0,3.6,Yes,161
+Restaurant_528,Koramangala,North Indian,440.0,3.5,Yes,653
+Restaurant_529,BTM,North Indian,810.0,4.3,No,635
+Restaurant_530,MG Road,North Indian,550.0,3.6,Yes,226
+Restaurant_531,Jayanagar,North Indian,750.0,3.7,No,205
+Restaurant_532,Indiranagar,Italian,360.0,3.7,Yes,1024
+Restaurant_533,BTM,South Indian,980.0,2.9,No,2704
+Restaurant_534,Indiranagar,Chinese,350.0,3.7,No,2765
+Restaurant_535,Whitefield,North Indian,200.0,3.3,Yes,1531
+Restaurant_536,Indiranagar,Continental,630.0,3.0,Yes,1588
+Restaurant_537,Whitefield,South Indian,640.0,3.4,Yes,1090
+Restaurant_538,HSR Layout,South Indian,490.0,3.4,Yes,1537
+Restaurant_539,BTM,Chinese,710.0,4.1,Yes,731
+Restaurant_540,BTM,Italian,720.0,3.1,Yes,1617
+Restaurant_541,Koramangala,Fast Food,690.0,3.2,Yes,1769
+Restaurant_542,Jayanagar,Fast Food,480.0,3.7,No,1572
+Restaurant_543,Whitefield,South Indian,450.0,3.0,Yes,649
+Restaurant_544,Koramangala,Biryani,500.0,3.3,No,2163
+Restaurant_545,Indiranagar,Biryani,430.0,2.9,Yes,174
+Restaurant_546,Indiranagar,Chinese,900.0,4.0,No,224
+Restaurant_547,Koramangala,Fast Food,520.0,3.5,Yes,1104
+Restaurant_548,BTM,South Indian,630.0,3.6,Yes,99
+Restaurant_549,Indiranagar,Italian,810.0,4.0,No,1805
+Restaurant_550,HSR Layout,Fast Food,420.0,3.3,Yes,2931
+Restaurant_551,HSR Layout,South Indian,350.0,3.5,No,1261
+Restaurant_552,Koramangala,South Indian,430.0,,Yes,1112
+Restaurant_553,Whitefield,North Indian,650.0,3.1,Yes,617
+Restaurant_554,Whitefield,Italian,640.0,3.2,Yes,358
+Restaurant_555,Koramangala,North Indian,690.0,3.4,No,2951
+Restaurant_556,Whitefield,Chinese,570.0,3.4,Yes,255
+Restaurant_557,BTM,North Indian,230.0,3.7,No,281
+Restaurant_558,BTM,Continental,560.0,3.2,No,2040
+Restaurant_559,Whitefield,North Indian,850.0,3.7,Yes,412
+Restaurant_560,HSR Layout,Continental,940.0,3.8,Yes,1475
+Restaurant_561,Whitefield,Fast Food,610.0,3.4,No,1205
+Restaurant_562,BTM,Biryani,,3.2,Yes,2955
+Restaurant_563,MG Road,South Indian,750.0,3.6,Yes,1089
+Restaurant_564,Jayanagar,Continental,930.0,3.5,Yes,1624
+Restaurant_565,Indiranagar,Italian,590.0,3.7,Yes,1136
+Restaurant_566,MG Road,North Indian,740.0,4.3,Yes,293
+Restaurant_567,Whitefield,Continental,480.0,3.6,Yes,526
+Restaurant_568,HSR Layout,Italian,360.0,3.3,No,2675
+Restaurant_569,Koramangala,Biryani,,3.2,Yes,1311
+Restaurant_570,Whitefield,Biryani,1020.0,3.2,Yes,621
+Restaurant_571,HSR Layout,North Indian,750.0,2.9,No,759
+Restaurant_572,Jayanagar,Chinese,380.0,4.0,No,1302
+Restaurant_573,Whitefield,North Indian,760.0,2.6,No,1866
+Restaurant_574,BTM,Fast Food,390.0,3.8,Yes,409
+Restaurant_575,Koramangala,Continental,680.0,3.2,No,1536
+Restaurant_576,HSR Layout,South Indian,410.0,3.4,Yes,2034
+Restaurant_577,HSR Layout,Chinese,370.0,3.2,Yes,2143
+Restaurant_578,HSR Layout,North Indian,1090.0,4.3,Yes,329
+Restaurant_579,Jayanagar,Italian,520.0,3.6,Yes,1065
+Restaurant_580,Whitefield,Chinese,740.0,4.0,No,345
+Restaurant_581,Jayanagar,Continental,600.0,4.2,Yes,2108
+Restaurant_582,Indiranagar,Chinese,400.0,3.7,No,183
+Restaurant_583,Indiranagar,Continental,540.0,3.1,No,1651
+Restaurant_584,Whitefield,North Indian,400.0,3.5,Yes,510
+Restaurant_585,BTM,Continental,1410.0,3.3,Yes,2133
+Restaurant_586,Jayanagar,Chinese,,3.4,Yes,2373
+Restaurant_587,Koramangala,Italian,600.0,3.6,Yes,1866
+Restaurant_588,HSR Layout,Biryani,730.0,3.5,Yes,1906
+Restaurant_589,HSR Layout,Chinese,780.0,3.8,No,1673
+Restaurant_590,Whitefield,Continental,780.0,3.9,Yes,1728
+Restaurant_591,BTM,Biryani,760.0,3.5,Yes,1788
+Restaurant_592,Indiranagar,Continental,740.0,3.8,No,706
+Restaurant_593,Indiranagar,Italian,610.0,3.4,Yes,741
+Restaurant_594,HSR Layout,Continental,1050.0,4.2,No,1104
+Restaurant_595,Whitefield,North Indian,630.0,3.3,Yes,2911
+Restaurant_596,Jayanagar,South Indian,600.0,4.1,Yes,2723
+Restaurant_597,Indiranagar,Chinese,630.0,2.9,Yes,661
+Restaurant_598,Jayanagar,South Indian,650.0,3.4,Yes,1104
+Restaurant_599,BTM,Continental,320.0,3.5,Yes,55
+Restaurant_600,Indiranagar,Italian,430.0,3.7,No,1080
+Restaurant_601,Indiranagar,Chinese,570.0,4.0,Yes,1455
+Restaurant_602,MG Road,Continental,310.0,3.0,No,2206
+Restaurant_603,Indiranagar,Biryani,590.0,3.1,Yes,2967
+Restaurant_604,Koramangala,Fast Food,650.0,3.0,Yes,465
+Restaurant_605,Whitefield,Continental,360.0,4.2,Yes,1672
+Restaurant_606,Whitefield,South Indian,460.0,3.7,No,2934
+Restaurant_607,Jayanagar,Chinese,960.0,3.1,Yes,975
+Restaurant_608,BTM,South Indian,730.0,3.4,Yes,2030
+Restaurant_609,Indiranagar,Chinese,710.0,4.1,No,878
+Restaurant_610,Koramangala,Continental,910.0,3.5,Yes,1538
+Restaurant_611,Jayanagar,North Indian,430.0,3.4,No,2986
+Restaurant_612,MG Road,Biryani,360.0,,Yes,1010
+Restaurant_613,Jayanagar,Continental,860.0,,No,783
+Restaurant_614,Jayanagar,South Indian,570.0,4.1,No,2301
+Restaurant_615,Indiranagar,Fast Food,12000.0,4.4,No,2531
+Restaurant_616,MG Road,Fast Food,1270.0,3.2,Yes,2439
+Restaurant_617,Jayanagar,Italian,310.0,4.2,Yes,1136
+Restaurant_618,Koramangala,Chinese,630.0,3.4,No,2546
+Restaurant_619,Koramangala,South Indian,550.0,3.8,Yes,1070
+Restaurant_620,Whitefield,Italian,510.0,,Yes,1687
+Restaurant_621,MG Road,South Indian,250.0,3.5,No,1553
+Restaurant_622,MG Road,Chinese,1040.0,3.5,Yes,406
+Restaurant_623,Whitefield,Continental,340.0,4.0,Yes,2353
+Restaurant_624,Jayanagar,Continental,530.0,3.1,Yes,116
+Restaurant_625,MG Road,Fast Food,500.0,4.1,Yes,2917
+Restaurant_626,Koramangala,Continental,740.0,3.7,Yes,963
+Restaurant_627,Koramangala,Continental,320.0,3.3,Yes,2587
+Restaurant_628,Indiranagar,North Indian,700.0,3.3,Yes,1858
+Restaurant_629,MG Road,Fast Food,640.0,3.0,No,943
+Restaurant_630,Jayanagar,Italian,450.0,3.4,No,297
+Restaurant_631,Whitefield,Biryani,700.0,3.5,Yes,715
+Restaurant_632,Whitefield,North Indian,590.0,3.1,Yes,2053
+Restaurant_633,Jayanagar,Italian,1150.0,3.6,No,1494
+Restaurant_634,BTM,Chinese,550.0,3.8,Yes,224
+Restaurant_635,HSR Layout,North Indian,400.0,3.5,Yes,1314
+Restaurant_636,Indiranagar,Italian,,3.9,Yes,2789
+Restaurant_637,Whitefield,Chinese,520.0,3.2,Yes,1987
+Restaurant_638,MG Road,Fast Food,590.0,4.1,No,1492
+Restaurant_639,Indiranagar,Biryani,360.0,3.7,Yes,1834
+Restaurant_640,MG Road,Chinese,740.0,4.3,No,353
+Restaurant_641,BTM,Continental,490.0,4.7,Yes,203
+Restaurant_642,Koramangala,South Indian,650.0,3.4,No,167
+Restaurant_643,Indiranagar,Chinese,1270.0,3.4,Yes,474
+Restaurant_644,Whitefield,Chinese,,3.5,Yes,2161
+Restaurant_645,Indiranagar,Biryani,780.0,3.9,Yes,2091
+Restaurant_646,Indiranagar,South Indian,550.0,4.2,Yes,2696
+Restaurant_647,Indiranagar,Continental,460.0,3.3,Yes,1759
+Restaurant_648,HSR Layout,Italian,970.0,3.8,Yes,2382
+Restaurant_649,Indiranagar,Italian,290.0,3.5,Yes,2748
+Restaurant_650,MG Road,Chinese,860.0,3.9,Yes,601
+Restaurant_651,Koramangala,South Indian,270.0,4.3,Yes,2198
+Restaurant_652,BTM,South Indian,830.0,3.5,No,2531
+Restaurant_653,Jayanagar,Continental,590.0,2.8,No,1064
+Restaurant_654,Indiranagar,Biryani,410.0,3.9,No,893
+Restaurant_655,Whitefield,Fast Food,500.0,,No,72
+Restaurant_656,Indiranagar,Italian,770.0,3.5,Yes,1120
+Restaurant_657,Whitefield,Biryani,1220.0,4.0,Yes,313
+Restaurant_658,MG Road,North Indian,320.0,3.7,Yes,1094
+Restaurant_659,Whitefield,Italian,410.0,3.6,No,405
+Restaurant_660,Jayanagar,Biryani,350.0,3.3,No,343
+Restaurant_661,Koramangala,Italian,550.0,2.3,Yes,2843
+Restaurant_662,Whitefield,Fast Food,840.0,3.9,Yes,420
+Restaurant_663,Whitefield,North Indian,330.0,3.5,Yes,2341
+Restaurant_664,Koramangala,Fast Food,590.0,4.3,Yes,475
+Restaurant_665,Jayanagar,Continental,830.0,3.8,Yes,89
+Restaurant_666,Indiranagar,North Indian,500.0,3.4,Yes,2841
+Restaurant_667,Whitefield,Chinese,220.0,,No,1110
+Restaurant_668,Koramangala,Biryani,640.0,4.1,Yes,1987
+Restaurant_669,MG Road,North Indian,940.0,3.5,No,742
+Restaurant_670,Koramangala,Continental,,4.1,No,1827
+Restaurant_671,MG Road,Continental,290.0,3.4,No,1573
+Restaurant_672,Jayanagar,Fast Food,670.0,3.7,Yes,1394
+Restaurant_673,Indiranagar,Italian,670.0,3.9,Yes,2134
+Restaurant_674,Koramangala,North Indian,490.0,4.0,Yes,2566
+Restaurant_675,BTM,Biryani,450.0,3.9,Yes,1197
+Restaurant_676,BTM,North Indian,600.0,3.5,Yes,1208
+Restaurant_677,HSR Layout,South Indian,380.0,4.1,No,2519
+Restaurant_678,Whitefield,Italian,380.0,3.5,No,1621
+Restaurant_679,Jayanagar,Biryani,770.0,3.3,No,2302
+Restaurant_680,Koramangala,Biryani,380.0,3.4,No,131
+Restaurant_681,BTM,Chinese,300.0,4.5,Yes,194
+Restaurant_682,Whitefield,Fast Food,450.0,3.3,Yes,41
+Restaurant_683,BTM,Chinese,490.0,4.2,Yes,1007
+Restaurant_684,Koramangala,Biryani,700.0,3.1,Yes,1996
+Restaurant_685,MG Road,Italian,470.0,3.8,No,2819
+Restaurant_686,Koramangala,North Indian,1000.0,3.7,Yes,578
+Restaurant_687,HSR Layout,North Indian,610.0,4.3,Yes,2367
+Restaurant_688,Koramangala,Italian,430.0,3.3,Yes,1405
+Restaurant_689,Koramangala,Biryani,690.0,3.2,Yes,1689
+Restaurant_690,HSR Layout,Continental,1000.0,3.5,Yes,839
+Restaurant_691,Jayanagar,North Indian,760.0,4.3,No,1629
+Restaurant_692,Koramangala,Continental,330.0,3.2,Yes,1089
+Restaurant_693,HSR Layout,North Indian,510.0,2.4,Yes,800
+Restaurant_694,Whitefield,North Indian,650.0,3.6,Yes,2521
+Restaurant_695,MG Road,Fast Food,740.0,4.0,Yes,2735
+Restaurant_696,MG Road,Fast Food,550.0,3.1,Yes,2727
+Restaurant_697,Koramangala,South Indian,520.0,4.0,No,2755
+Restaurant_698,Jayanagar,Chinese,1140.0,3.1,Yes,1003
+Restaurant_699,Jayanagar,Italian,760.0,3.5,Yes,87
+Restaurant_700,Whitefield,Italian,690.0,3.9,Yes,2591
+Restaurant_701,Koramangala,Italian,470.0,3.1,No,117
+Restaurant_702,MG Road,South Indian,380.0,3.7,Yes,1306
+Restaurant_703,Jayanagar,Fast Food,700.0,4.1,Yes,2821
+Restaurant_704,Koramangala,Biryani,790.0,3.8,Yes,2072
+Restaurant_705,BTM,Continental,590.0,3.3,No,379
+Restaurant_706,Jayanagar,Continental,760.0,4.3,Yes,2262
+Restaurant_707,HSR Layout,Biryani,770.0,3.9,Yes,2014
+Restaurant_708,BTM,South Indian,820.0,2.8,Yes,1713
+Restaurant_709,Jayanagar,Biryani,330.0,4.0,Yes,2922
+Restaurant_710,MG Road,Italian,510.0,3.3,No,450
+Restaurant_711,Indiranagar,Chinese,720.0,3.7,No,2916
+Restaurant_712,BTM,North Indian,,4.1,Yes,236
+Restaurant_713,Whitefield,Continental,770.0,3.4,No,2585
+Restaurant_714,Whitefield,Fast Food,690.0,2.9,No,2411
+Restaurant_715,MG Road,Fast Food,260.0,4.3,No,632
+Restaurant_716,Jayanagar,South Indian,890.0,4.1,Yes,1034
+Restaurant_717,Koramangala,Fast Food,490.0,3.6,Yes,1586
+Restaurant_718,Jayanagar,Italian,420.0,4.0,Yes,2984
+Restaurant_719,MG Road,Continental,880.0,3.4,No,1653
+Restaurant_720,Whitefield,Biryani,750.0,3.6,Yes,1194
+Restaurant_721,Jayanagar,Italian,930.0,3.5,Yes,170
+Restaurant_722,Whitefield,South Indian,650.0,3.5,Yes,880
+Restaurant_723,BTM,Italian,510.0,3.8,Yes,1755
+Restaurant_724,Koramangala,Biryani,620.0,3.1,Yes,1184
+Restaurant_725,BTM,Chinese,390.0,3.5,No,453
+Restaurant_726,Whitefield,South Indian,350.0,3.7,Yes,1800
+Restaurant_727,Whitefield,Chinese,460.0,4.4,No,1504
+Restaurant_728,Indiranagar,North Indian,1040.0,3.1,Yes,472
+Restaurant_729,Indiranagar,Chinese,480.0,3.8,Yes,482
+Restaurant_730,BTM,North Indian,300.0,3.9,Yes,2614
+Restaurant_731,HSR Layout,North Indian,560.0,2.8,Yes,89
+Restaurant_732,BTM,Chinese,480.0,3.8,Yes,1072
+Restaurant_733,Indiranagar,South Indian,900.0,4.0,No,249
+Restaurant_734,Whitefield,Biryani,1010.0,3.9,Yes,566
+Restaurant_735,MG Road,Italian,500.0,3.6,No,599
+Restaurant_736,BTM,Italian,650.0,3.7,Yes,1370
+Restaurant_737,Whitefield,Biryani,670.0,3.7,Yes,1894
+Restaurant_738,MG Road,Continental,580.0,2.8,Yes,1985
+Restaurant_739,MG Road,Continental,540.0,3.7,Yes,1313
+Restaurant_740,Indiranagar,North Indian,410.0,3.4,Yes,1149
+Restaurant_741,BTM,North Indian,290.0,3.3,Yes,2326
+Restaurant_742,Jayanagar,South Indian,410.0,4.7,Yes,1949
+Restaurant_743,Koramangala,Fast Food,570.0,4.2,Yes,344
+Restaurant_744,Indiranagar,Chinese,330.0,3.1,Yes,321
+Restaurant_745,Indiranagar,North Indian,640.0,3.8,No,1086
+Restaurant_746,Jayanagar,Italian,610.0,4.3,Yes,2751
+Restaurant_747,Koramangala,South Indian,480.0,2.9,Yes,43
+Restaurant_748,Whitefield,Chinese,530.0,3.6,No,1851
+Restaurant_749,HSR Layout,South Indian,350.0,3.7,Yes,395
+Restaurant_750,BTM,Chinese,810.0,3.0,Yes,258
+Restaurant_751,HSR Layout,Chinese,800.0,3.8,Yes,1144
+Restaurant_752,Whitefield,Biryani,380.0,4.1,Yes,1443
+Restaurant_753,Indiranagar,North Indian,380.0,4.3,No,1212
+Restaurant_754,Koramangala,South Indian,410.0,3.5,Yes,803
+Restaurant_755,Indiranagar,South Indian,730.0,4.7,No,861
+Restaurant_756,MG Road,Biryani,670.0,2.7,No,2931
+Restaurant_757,Indiranagar,Italian,880.0,3.8,Yes,385
+Restaurant_758,Indiranagar,Italian,920.0,3.0,Yes,733
+Restaurant_759,Whitefield,Continental,320.0,3.6,Yes,1620
+Restaurant_760,Whitefield,North Indian,720.0,3.4,Yes,1923
+Restaurant_761,Whitefield,North Indian,900.0,3.8,Yes,211
+Restaurant_762,HSR Layout,Fast Food,520.0,3.5,Yes,2502
+Restaurant_763,MG Road,Biryani,580.0,3.2,Yes,1952
+Restaurant_764,Whitefield,Italian,550.0,3.3,Yes,2354
+Restaurant_765,Koramangala,Chinese,560.0,4.5,No,1341
+Restaurant_766,HSR Layout,South Indian,810.0,3.8,Yes,502
+Restaurant_767,Jayanagar,North Indian,1130.0,2.8,No,347
+Restaurant_768,Koramangala,South Indian,990.0,3.8,No,1978
+Restaurant_769,BTM,South Indian,480.0,3.5,Yes,2980
+Restaurant_770,BTM,Fast Food,650.0,3.6,No,1875
+Restaurant_771,Koramangala,Italian,430.0,4.0,Yes,801
+Restaurant_772,Whitefield,North Indian,450.0,4.1,Yes,1526
+Restaurant_773,Jayanagar,South Indian,570.0,3.2,Yes,2032
+Restaurant_774,Jayanagar,North Indian,450.0,3.6,Yes,2374
+Restaurant_775,HSR Layout,Chinese,470.0,3.4,Yes,951
+Restaurant_776,Jayanagar,Fast Food,650.0,3.9,Yes,2683
+Restaurant_777,BTM,Chinese,720.0,3.5,Yes,2132
+Restaurant_778,MG Road,North Indian,710.0,3.6,Yes,2996
+Restaurant_779,Whitefield,Continental,710.0,3.5,Yes,68
+Restaurant_780,Jayanagar,North Indian,360.0,3.6,Yes,2443
+Restaurant_781,HSR Layout,Italian,440.0,4.4,Yes,2072
+Restaurant_782,BTM,South Indian,600.0,4.7,Yes,1264
+Restaurant_783,MG Road,South Indian,890.0,3.8,Yes,2256
+Restaurant_784,Indiranagar,Chinese,1390.0,3.6,Yes,1387
+Restaurant_785,Indiranagar,Fast Food,660.0,2.9,No,44
+Restaurant_786,MG Road,Continental,780.0,3.3,Yes,171
+Restaurant_787,BTM,Biryani,350.0,3.5,No,2856
+Restaurant_788,HSR Layout,South Indian,770.0,3.3,Yes,904
+Restaurant_789,MG Road,Italian,1230.0,3.3,No,480
+Restaurant_790,Whitefield,Chinese,440.0,4.3,Yes,2588
+Restaurant_791,Whitefield,Chinese,480.0,3.6,Yes,2849
+Restaurant_792,Indiranagar,Biryani,820.0,3.7,Yes,2909
+Restaurant_793,Jayanagar,Italian,600.0,3.3,Yes,1456
+Restaurant_794,HSR Layout,Fast Food,280.0,4.1,Yes,357
+Restaurant_795,Indiranagar,Italian,490.0,3.5,Yes,703
+Restaurant_796,Jayanagar,Fast Food,1010.0,3.4,No,944
+Restaurant_797,Jayanagar,Italian,530.0,2.9,Yes,922
+Restaurant_798,Whitefield,Italian,530.0,3.6,Yes,156
+Restaurant_799,BTM,North Indian,800.0,3.4,No,1721
+Restaurant_800,Koramangala,Chinese,670.0,4.4,Yes,684
+Restaurant_801,BTM,Italian,520.0,4.4,No,1449
+Restaurant_802,Koramangala,Biryani,460.0,3.0,Yes,2744
+Restaurant_803,MG Road,Italian,1680.0,3.1,No,1527
+Restaurant_804,Whitefield,South Indian,940.0,3.5,Yes,1289
+Restaurant_805,Jayanagar,Chinese,710.0,3.2,No,695
+Restaurant_806,HSR Layout,South Indian,730.0,3.7,No,1136
+Restaurant_807,Koramangala,Chinese,560.0,3.5,Yes,130
+Restaurant_808,BTM,South Indian,670.0,3.7,Yes,2476
+Restaurant_809,Jayanagar,Italian,540.0,4.1,Yes,2407
+Restaurant_810,Koramangala,Italian,420.0,3.1,No,51
+Restaurant_811,Koramangala,North Indian,680.0,4.0,Yes,38
+Restaurant_812,Koramangala,Biryani,520.0,3.3,Yes,975
+Restaurant_813,HSR Layout,South Indian,690.0,4.6,Yes,1925
+Restaurant_814,Whitefield,Fast Food,740.0,4.3,Yes,2842
+Restaurant_815,HSR Layout,North Indian,710.0,3.5,Yes,2010
+Restaurant_816,Indiranagar,South Indian,410.0,3.2,No,2071
+Restaurant_817,Jayanagar,South Indian,500.0,3.1,Yes,929
+Restaurant_818,Whitefield,North Indian,530.0,4.0,No,827
+Restaurant_819,Whitefield,Italian,850.0,3.6,Yes,2882
+Restaurant_820,Whitefield,South Indian,840.0,4.0,Yes,1518
+Restaurant_821,BTM,Italian,450.0,4.6,Yes,1222
+Restaurant_822,Whitefield,North Indian,360.0,,Yes,881
+Restaurant_823,HSR Layout,Italian,1420.0,3.0,No,304
+Restaurant_824,Whitefield,Chinese,700.0,3.7,No,873
+Restaurant_825,MG Road,Fast Food,340.0,4.1,Yes,2605
+Restaurant_826,Jayanagar,Continental,470.0,3.2,Yes,1047
+Restaurant_827,Whitefield,South Indian,870.0,3.6,Yes,2692
+Restaurant_828,Jayanagar,Biryani,1270.0,4.2,No,604
+Restaurant_829,MG Road,Fast Food,1180.0,2.9,No,1192
+Restaurant_830,MG Road,Continental,690.0,3.7,No,1527
+Restaurant_831,Jayanagar,Italian,590.0,3.4,Yes,1362
+Restaurant_832,Koramangala,South Indian,400.0,3.7,Yes,623
+Restaurant_833,Indiranagar,Italian,610.0,3.9,Yes,1882
+Restaurant_834,BTM,Chinese,410.0,3.7,Yes,1613
+Restaurant_835,Koramangala,North Indian,500.0,3.1,Yes,1593
+Restaurant_836,Koramangala,South Indian,820.0,3.4,Yes,1602
+Restaurant_837,HSR Layout,Continental,540.0,4.2,Yes,1165
+Restaurant_838,BTM,Continental,520.0,3.7,No,474
+Restaurant_839,BTM,Chinese,580.0,4.0,No,1489
+Restaurant_840,Koramangala,Chinese,1510.0,3.7,Yes,2987
+Restaurant_841,Whitefield,South Indian,380.0,4.0,Yes,1300
+Restaurant_842,HSR Layout,Italian,660.0,3.4,Yes,2856
+Restaurant_843,HSR Layout,Biryani,1130.0,3.3,No,2452
+Restaurant_844,MG Road,Continental,580.0,3.9,No,2303
+Restaurant_845,BTM,Continental,940.0,4.1,No,577
+Restaurant_846,Koramangala,Chinese,350.0,3.2,No,47
+Restaurant_847,MG Road,Fast Food,540.0,3.3,Yes,254
+Restaurant_848,Jayanagar,Chinese,430.0,3.5,Yes,30
+Restaurant_849,Indiranagar,Biryani,580.0,4.3,Yes,1143
+Restaurant_850,HSR Layout,Italian,580.0,3.9,Yes,1639
+Restaurant_851,Jayanagar,Italian,600.0,3.0,No,403
+Restaurant_852,Jayanagar,Fast Food,820.0,3.6,Yes,1443
+Restaurant_853,Whitefield,Continental,250.0,3.5,Yes,996
+Restaurant_854,Indiranagar,Chinese,460.0,3.1,Yes,1681
+Restaurant_855,Jayanagar,Italian,640.0,3.6,No,2065
+Restaurant_856,Jayanagar,Biryani,280.0,3.5,Yes,2385
+Restaurant_857,Indiranagar,South Indian,750.0,3.4,Yes,1920
+Restaurant_858,Indiranagar,North Indian,460.0,3.4,Yes,299
+Restaurant_859,Jayanagar,North Indian,550.0,4.3,Yes,1796
+Restaurant_860,Indiranagar,North Indian,830.0,3.4,Yes,2568
+Restaurant_861,Jayanagar,Continental,950.0,3.6,No,921
+Restaurant_862,Jayanagar,Chinese,760.0,3.6,Yes,370
+Restaurant_863,Whitefield,Fast Food,380.0,3.4,No,1632
+Restaurant_864,Koramangala,Italian,740.0,3.6,Yes,2773
+Restaurant_865,Jayanagar,South Indian,760.0,3.6,Yes,228
+Restaurant_866,MG Road,Biryani,700.0,3.6,No,2463
+Restaurant_867,HSR Layout,South Indian,1020.0,3.2,Yes,2025
+Restaurant_868,BTM,Biryani,610.0,3.5,Yes,2050
+Restaurant_869,Koramangala,Continental,1000.0,3.9,No,2054
+Restaurant_870,Koramangala,Chinese,1000.0,3.5,Yes,2810
+Restaurant_871,Koramangala,North Indian,770.0,3.7,No,2980
+Restaurant_872,Whitefield,Chinese,660.0,,Yes,841
+Restaurant_873,Jayanagar,Continental,710.0,3.8,Yes,1803
+Restaurant_874,Whitefield,Fast Food,1110.0,3.9,Yes,1801
+Restaurant_875,Jayanagar,Fast Food,9500.0,3.5,No,2851
+Restaurant_876,Whitefield,Continental,390.0,3.2,Yes,1253
+Restaurant_877,Whitefield,Biryani,690.0,3.1,No,604
+Restaurant_878,HSR Layout,Italian,420.0,4.1,No,2164
+Restaurant_879,MG Road,Italian,460.0,3.9,Yes,590
+Restaurant_880,Whitefield,Biryani,510.0,3.9,Yes,2666
+Restaurant_881,HSR Layout,Fast Food,340.0,4.0,Yes,1757
+Restaurant_882,Indiranagar,Fast Food,410.0,3.5,Yes,2065
+Restaurant_883,MG Road,Fast Food,1040.0,3.3,Yes,2863
+Restaurant_884,Whitefield,Chinese,460.0,3.2,Yes,2246
+Restaurant_885,BTM,Fast Food,820.0,3.1,No,90
+Restaurant_886,Koramangala,South Indian,630.0,4.1,No,2165
+Restaurant_887,Indiranagar,North Indian,730.0,3.4,No,1354
+Restaurant_888,Indiranagar,Fast Food,740.0,4.1,No,1612
+Restaurant_889,HSR Layout,Biryani,410.0,3.5,Yes,2743
+Restaurant_890,Indiranagar,North Indian,820.0,3.3,No,355
+Restaurant_891,MG Road,Chinese,360.0,3.1,No,1896
+Restaurant_892,Whitefield,Biryani,450.0,3.3,Yes,2385
+Restaurant_893,Whitefield,North Indian,740.0,4.2,No,564
+Restaurant_894,BTM,Biryani,400.0,3.1,Yes,311
+Restaurant_895,Koramangala,Chinese,280.0,4.6,Yes,209
+Restaurant_896,HSR Layout,South Indian,680.0,3.2,No,2950
+Restaurant_897,Koramangala,Chinese,320.0,3.9,No,1072
+Restaurant_898,Indiranagar,Chinese,770.0,3.5,Yes,316
+Restaurant_899,BTM,Biryani,520.0,3.5,No,1666
+Restaurant_900,Koramangala,Continental,670.0,3.0,Yes,1881
+Restaurant_901,MG Road,Italian,670.0,3.6,Yes,2525
+Restaurant_902,Whitefield,Fast Food,790.0,3.1,No,2236
+Restaurant_903,Indiranagar,Fast Food,750.0,2.8,Yes,2702
+Restaurant_904,BTM,South Indian,400.0,3.7,No,1856
+Restaurant_905,Koramangala,South Indian,540.0,3.3,Yes,1774
+Restaurant_906,HSR Layout,Fast Food,670.0,4.4,Yes,285
+Restaurant_907,MG Road,Italian,1010.0,4.1,Yes,1185
+Restaurant_908,MG Road,Fast Food,750.0,4.4,Yes,1411
+Restaurant_909,Koramangala,Continental,970.0,3.3,Yes,2678
+Restaurant_910,Whitefield,Italian,690.0,3.7,No,647
+Restaurant_911,Koramangala,South Indian,890.0,2.4,Yes,1785
+Restaurant_912,Indiranagar,North Indian,650.0,3.5,No,939
+Restaurant_913,Koramangala,Biryani,880.0,3.6,Yes,1890
+Restaurant_914,MG Road,Continental,510.0,3.7,Yes,192
+Restaurant_915,BTM,Continental,1060.0,3.6,Yes,1854
+Restaurant_916,Koramangala,South Indian,720.0,3.6,Yes,81
+Restaurant_917,Whitefield,South Indian,340.0,2.4,Yes,2776
+Restaurant_918,BTM,Chinese,680.0,3.7,Yes,1686
+Restaurant_919,HSR Layout,Continental,750.0,3.8,Yes,1305
+Restaurant_920,Jayanagar,Chinese,830.0,4.2,Yes,2783
+Restaurant_921,Koramangala,Chinese,1210.0,3.8,Yes,2326
+Restaurant_922,Whitefield,Biryani,480.0,3.5,Yes,1053
+Restaurant_923,BTM,Chinese,1210.0,4.1,Yes,2635
+Restaurant_924,Whitefield,Italian,590.0,2.5,No,824
+Restaurant_925,HSR Layout,Fast Food,440.0,3.4,Yes,1536
+Restaurant_926,MG Road,North Indian,490.0,3.3,No,2204
+Restaurant_927,Whitefield,South Indian,730.0,3.6,Yes,2947
+Restaurant_928,BTM,Italian,420.0,,No,319
+Restaurant_929,Whitefield,North Indian,520.0,4.2,Yes,2575
+Restaurant_930,Whitefield,Continental,670.0,3.5,No,2071
+Restaurant_931,Whitefield,Continental,1050.0,3.7,Yes,141
+Restaurant_932,Indiranagar,Continental,820.0,3.7,No,1887
+Restaurant_933,Indiranagar,Italian,600.0,4.2,No,2812
+Restaurant_934,MG Road,Italian,730.0,2.8,No,2496
+Restaurant_935,Koramangala,South Indian,650.0,3.7,Yes,2800
+Restaurant_936,Whitefield,Fast Food,370.0,4.1,Yes,749
+Restaurant_937,HSR Layout,Chinese,1130.0,3.6,Yes,804
+Restaurant_938,Koramangala,Continental,1060.0,3.2,Yes,2320
+Restaurant_939,HSR Layout,Biryani,570.0,3.3,No,2700
+Restaurant_940,Koramangala,Fast Food,490.0,3.4,Yes,267
+Restaurant_941,MG Road,Biryani,380.0,3.3,Yes,1267
+Restaurant_942,Whitefield,South Indian,750.0,3.5,Yes,2466
+Restaurant_943,Whitefield,South Indian,750.0,4.3,Yes,1861
+Restaurant_944,Jayanagar,South Indian,430.0,3.3,Yes,984
+Restaurant_945,HSR Layout,North Indian,650.0,3.4,No,1057
+Restaurant_946,Koramangala,Biryani,810.0,3.8,Yes,280
+Restaurant_947,Koramangala,Fast Food,480.0,3.5,Yes,1128
+Restaurant_948,Indiranagar,Fast Food,550.0,3.0,Yes,151
+Restaurant_949,Jayanagar,Italian,540.0,3.6,Yes,911
+Restaurant_950,BTM,Italian,440.0,3.6,Yes,283
+Restaurant_951,BTM,Continental,,4.0,No,2333
+Restaurant_952,Indiranagar,Italian,320.0,3.2,No,474
+Restaurant_953,Indiranagar,South Indian,530.0,4.0,No,1241
+Restaurant_954,Indiranagar,Fast Food,540.0,3.6,No,1329
+Restaurant_955,HSR Layout,Biryani,580.0,3.1,Yes,297
+Restaurant_956,HSR Layout,South Indian,710.0,3.0,No,885
+Restaurant_957,MG Road,North Indian,370.0,4.5,No,2002
+Restaurant_958,MG Road,Italian,390.0,3.5,No,2935
+Restaurant_959,Indiranagar,South Indian,440.0,4.0,Yes,2237
+Restaurant_960,Jayanagar,South Indian,350.0,2.8,No,1130
+Restaurant_961,Koramangala,North Indian,740.0,4.8,No,1224
+Restaurant_962,HSR Layout,Chinese,470.0,4.0,No,456
+Restaurant_963,Jayanagar,Fast Food,580.0,3.5,Yes,2842
+Restaurant_964,Whitefield,Biryani,420.0,3.5,No,2618
+Restaurant_965,HSR Layout,Continental,510.0,3.9,No,2541
+Restaurant_966,HSR Layout,Chinese,660.0,3.9,No,2906
+Restaurant_967,MG Road,Italian,680.0,3.7,Yes,731
+Restaurant_968,Koramangala,South Indian,400.0,3.6,No,2173
+Restaurant_969,Koramangala,North Indian,570.0,3.9,Yes,2592
+Restaurant_970,BTM,North Indian,420.0,2.8,Yes,1361
+Restaurant_971,BTM,Fast Food,560.0,3.4,Yes,416
+Restaurant_972,BTM,Chinese,460.0,2.9,No,1735
+Restaurant_973,BTM,Continental,1160.0,3.9,Yes,703
+Restaurant_974,Whitefield,Fast Food,800.0,3.3,Yes,504
+Restaurant_975,Whitefield,South Indian,690.0,2.9,No,957
+Restaurant_976,HSR Layout,Fast Food,530.0,3.2,No,32
+Restaurant_977,Indiranagar,Biryani,810.0,3.7,Yes,1138
+Restaurant_978,MG Road,North Indian,580.0,3.5,No,1708
+Restaurant_979,MG Road,North Indian,1110.0,3.1,No,567
+Restaurant_980,BTM,Italian,,2.8,Yes,1626
+Restaurant_981,HSR Layout,Italian,510.0,3.6,Yes,950
+Restaurant_982,Jayanagar,Continental,1060.0,3.3,Yes,1255
+Restaurant_983,Indiranagar,South Indian,530.0,3.5,Yes,2912
+Restaurant_984,HSR Layout,Biryani,1190.0,3.5,Yes,2948
+Restaurant_985,Indiranagar,Chinese,1080.0,3.8,No,1666
+Restaurant_986,Indiranagar,Fast Food,660.0,4.0,No,87
+Restaurant_987,Indiranagar,Continental,330.0,,Yes,1355
+Restaurant_988,HSR Layout,South Indian,640.0,3.5,Yes,816
+Restaurant_989,BTM,Italian,380.0,3.6,Yes,1051
+Restaurant_990,MG Road,Fast Food,460.0,3.4,Yes,777
+Restaurant_991,MG Road,Italian,480.0,2.9,Yes,463
+Restaurant_992,BTM,Fast Food,380.0,4.1,No,2985
+Restaurant_993,Indiranagar,Chinese,640.0,4.0,No,2334
+Restaurant_994,Jayanagar,South Indian,440.0,4.5,Yes,1457
+Restaurant_995,Koramangala,Fast Food,540.0,4.6,No,1509
+Restaurant_996,HSR Layout,Biryani,480.0,3.1,Yes,1060
+Restaurant_997,Koramangala,Continental,,3.4,No,2571
+Restaurant_998,BTM,North Indian,690.0,4.7,Yes,1898
+Restaurant_999,Jayanagar,Biryani,520.0,3.6,Yes,2521
+Restaurant_1000,HSR Layout,Biryani,720.0,3.7,No,2864
+Restaurant_1001,BTM,Continental,940.0,2.9,Yes,2881
+Restaurant_1002,Indiranagar,North Indian,260.0,3.7,No,372
+Restaurant_1003,MG Road,Biryani,470.0,4.5,Yes,2808
+Restaurant_1004,Koramangala,Fast Food,410.0,4.2,Yes,534
+Restaurant_1005,Whitefield,Fast Food,450.0,3.3,Yes,1227
+Restaurant_1006,Whitefield,Fast Food,250.0,3.4,Yes,1495
+Restaurant_1007,Jayanagar,North Indian,260.0,3.1,No,2113
+Restaurant_1008,Indiranagar,Biryani,10500.0,3.2,Yes,1263
+Restaurant_1009,Koramangala,North Indian,480.0,2.7,No,2546
+Restaurant_1010,Indiranagar,Fast Food,480.0,3.6,No,1865
+Restaurant_1011,Koramangala,Continental,990.0,4.3,No,731
+Restaurant_1012,Jayanagar,Biryani,620.0,3.8,Yes,1993
+Restaurant_1013,Jayanagar,Biryani,260.0,4.2,No,1217
+Restaurant_1014,Whitefield,Italian,720.0,4.1,Yes,1458
+Restaurant_1015,Indiranagar,Italian,2250.0,3.4,Yes,1408
+Restaurant_1016,HSR Layout,Chinese,260.0,3.3,Yes,2098
+Restaurant_1017,Whitefield,South Indian,1120.0,3.3,Yes,1517
+Restaurant_1018,Indiranagar,Italian,580.0,2.8,Yes,1013
+Restaurant_1019,Whitefield,North Indian,500.0,3.6,Yes,2317
+Restaurant_1020,HSR Layout,Italian,470.0,2.3,Yes,2498
+Restaurant_1021,MG Road,Chinese,670.0,3.9,Yes,935
+Restaurant_1022,MG Road,Biryani,500.0,3.6,No,865
+Restaurant_1023,MG Road,Chinese,380.0,3.8,Yes,93
+Restaurant_1024,MG Road,Biryani,480.0,4.1,Yes,2103
+Restaurant_1025,BTM,Continental,680.0,3.7,Yes,2497
+Restaurant_1026,Koramangala,Continental,770.0,4.3,No,1552
+Restaurant_1027,BTM,Biryani,1170.0,3.9,Yes,995
+Restaurant_1028,BTM,South Indian,610.0,3.3,Yes,1878
+Restaurant_1029,BTM,Italian,960.0,3.5,Yes,145
+Restaurant_1030,MG Road,North Indian,550.0,2.6,No,1216
+Restaurant_1031,HSR Layout,North Indian,580.0,3.2,Yes,1742
+Restaurant_1032,Jayanagar,Fast Food,560.0,3.4,No,1205
+Restaurant_1033,Jayanagar,Biryani,,3.8,Yes,918
+Restaurant_1034,Koramangala,North Indian,820.0,3.3,Yes,2918
+Restaurant_1035,MG Road,South Indian,490.0,3.0,Yes,2845
+Restaurant_1036,MG Road,Biryani,420.0,2.8,Yes,599
+Restaurant_1037,MG Road,South Indian,850.0,3.3,Yes,1961
+Restaurant_1038,Whitefield,North Indian,820.0,4.5,Yes,965
+Restaurant_1039,Indiranagar,North Indian,1020.0,3.7,Yes,2747
+Restaurant_1040,Whitefield,Fast Food,470.0,4.0,No,2596
+Restaurant_1041,Indiranagar,North Indian,540.0,3.2,Yes,1153
+Restaurant_1042,MG Road,Biryani,860.0,2.9,No,1341
+Restaurant_1043,MG Road,Continental,490.0,3.1,Yes,2765
+Restaurant_1044,Whitefield,Biryani,750.0,3.6,Yes,1563
+Restaurant_1045,Whitefield,Biryani,550.0,2.7,Yes,2352
+Restaurant_1046,Indiranagar,Fast Food,670.0,3.1,Yes,1816
+Restaurant_1047,Jayanagar,Fast Food,380.0,3.3,Yes,2110
+Restaurant_1048,Indiranagar,North Indian,610.0,3.0,Yes,815
+Restaurant_1049,Whitefield,Chinese,200.0,2.6,No,1465
+Restaurant_1050,HSR Layout,Chinese,930.0,3.7,No,61
+Restaurant_1051,Whitefield,Fast Food,790.0,3.6,Yes,2785
+Restaurant_1052,HSR Layout,North Indian,410.0,4.0,No,81
+Restaurant_1053,Koramangala,Chinese,1130.0,3.1,No,37
+Restaurant_1054,Whitefield,North Indian,910.0,3.9,Yes,478
+Restaurant_1055,Koramangala,North Indian,380.0,4.3,No,773
+Restaurant_1056,Jayanagar,North Indian,480.0,3.7,Yes,2943
+Restaurant_1057,Indiranagar,Italian,390.0,3.3,Yes,2969
+Restaurant_1058,HSR Layout,Biryani,680.0,3.7,Yes,2604
+Restaurant_1059,Indiranagar,North Indian,470.0,,Yes,1434
+Restaurant_1060,Koramangala,Italian,280.0,3.2,Yes,2258
+Restaurant_1061,HSR Layout,Fast Food,570.0,3.9,Yes,829
+Restaurant_1062,Indiranagar,Chinese,830.0,3.5,No,1499
+Restaurant_1063,Whitefield,Biryani,610.0,4.1,No,1685
+Restaurant_1064,MG Road,Continental,730.0,3.4,No,569
+Restaurant_1065,Koramangala,Chinese,640.0,3.4,No,388
+Restaurant_1066,Indiranagar,Biryani,780.0,3.3,No,1928
+Restaurant_1067,Koramangala,Continental,660.0,3.1,Yes,1085
+Restaurant_1068,BTM,Chinese,560.0,4.0,Yes,88
+Restaurant_1069,Koramangala,Biryani,610.0,4.6,Yes,1418
+Restaurant_1070,HSR Layout,Chinese,1040.0,3.4,No,843
+Restaurant_1071,BTM,Chinese,740.0,3.3,Yes,1041
+Restaurant_1072,HSR Layout,Continental,410.0,3.3,No,2082
+Restaurant_1073,MG Road,Chinese,610.0,3.3,Yes,459
+Restaurant_1074,BTM,Chinese,670.0,4.3,Yes,2825
+Restaurant_1075,Whitefield,Continental,560.0,3.3,No,2812
+Restaurant_1076,Koramangala,Fast Food,280.0,3.3,Yes,2002
+Restaurant_1077,Indiranagar,North Indian,420.0,3.0,Yes,1494
+Restaurant_1078,Jayanagar,South Indian,500.0,3.7,Yes,2255
+Restaurant_1079,Koramangala,Italian,1180.0,3.6,Yes,1752
+Restaurant_1080,Koramangala,South Indian,710.0,3.1,No,1980
+Restaurant_1081,MG Road,South Indian,320.0,3.2,Yes,2494
+Restaurant_1082,Whitefield,Biryani,570.0,4.3,Yes,1560
+Restaurant_1083,Jayanagar,North Indian,970.0,3.6,Yes,699
+Restaurant_1084,BTM,Biryani,470.0,3.6,No,2000
+Restaurant_1085,BTM,North Indian,870.0,3.6,Yes,1411
+Restaurant_1086,BTM,Continental,330.0,4.2,Yes,596
+Restaurant_1087,HSR Layout,Continental,,3.1,No,2161
+Restaurant_1088,HSR Layout,North Indian,930.0,3.4,Yes,1839
+Restaurant_1089,Indiranagar,Chinese,490.0,3.5,No,1995
+Restaurant_1090,Jayanagar,Fast Food,290.0,2.8,Yes,636
+Restaurant_1091,BTM,Chinese,510.0,3.2,Yes,2041
+Restaurant_1092,HSR Layout,Fast Food,640.0,4.1,Yes,2515
+Restaurant_1093,Indiranagar,Biryani,700.0,3.9,No,373
+Restaurant_1094,Whitefield,Fast Food,230.0,4.0,No,2192
+Restaurant_1095,Indiranagar,Biryani,460.0,3.3,Yes,383
+Restaurant_1096,HSR Layout,Continental,600.0,3.4,Yes,2096
+Restaurant_1097,MG Road,South Indian,700.0,2.8,No,1997
+Restaurant_1098,MG Road,Continental,400.0,4.0,No,2876
+Restaurant_1099,BTM,Continental,540.0,4.1,No,2104
+Restaurant_1100,MG Road,South Indian,470.0,4.1,Yes,2093
+Restaurant_1101,BTM,Fast Food,640.0,4.3,No,2152
+Restaurant_1102,BTM,Fast Food,,3.8,Yes,1394
+Restaurant_1103,HSR Layout,Biryani,520.0,4.3,Yes,1558
+Restaurant_1104,MG Road,Chinese,340.0,3.5,Yes,1179
+Restaurant_1105,BTM,Biryani,450.0,2.8,No,1950
+Restaurant_1106,Jayanagar,Chinese,1120.0,4.0,Yes,377
+Restaurant_1107,Whitefield,Continental,420.0,2.8,Yes,74
+Restaurant_1108,Indiranagar,South Indian,370.0,3.7,No,763
+Restaurant_1109,Indiranagar,Continental,510.0,4.0,Yes,1553
+Restaurant_1110,HSR Layout,North Indian,570.0,3.7,No,2045
+Restaurant_1111,MG Road,Fast Food,480.0,4.6,No,2873
+Restaurant_1112,MG Road,Chinese,330.0,2.7,Yes,1886
+Restaurant_1113,BTM,Biryani,670.0,3.6,No,1588
+Restaurant_1114,Koramangala,South Indian,640.0,3.6,No,765
+Restaurant_1115,BTM,Chinese,770.0,3.0,No,2238
+Restaurant_1116,Whitefield,Biryani,640.0,3.1,No,1534
+Restaurant_1117,Jayanagar,Fast Food,1080.0,3.2,No,606
+Restaurant_1118,Indiranagar,Continental,790.0,3.1,Yes,2844
+Restaurant_1119,BTM,Fast Food,730.0,3.6,Yes,2684
+Restaurant_1120,Koramangala,Italian,930.0,3.3,No,1844
+Restaurant_1121,Koramangala,North Indian,620.0,3.7,Yes,2673
+Restaurant_1122,BTM,Italian,550.0,3.9,Yes,1405
+Restaurant_1123,HSR Layout,South Indian,670.0,3.9,No,1596
+Restaurant_1124,Indiranagar,Chinese,280.0,3.4,No,121
+Restaurant_1125,HSR Layout,South Indian,620.0,3.7,Yes,462
+Restaurant_1126,Jayanagar,Continental,570.0,4.1,No,2813
+Restaurant_1127,Koramangala,Biryani,690.0,3.8,No,2641
+Restaurant_1128,Koramangala,Fast Food,880.0,4.4,Yes,2196
+Restaurant_1129,Whitefield,Italian,740.0,4.0,No,1881
+Restaurant_1130,Jayanagar,Italian,450.0,4.4,Yes,2288
+Restaurant_1131,Koramangala,Continental,820.0,2.5,Yes,1272
+Restaurant_1132,Jayanagar,Italian,,3.6,Yes,262
+Restaurant_1133,Indiranagar,Continental,880.0,3.5,Yes,2014
+Restaurant_1134,MG Road,South Indian,350.0,3.5,Yes,1469
+Restaurant_1135,Koramangala,Fast Food,740.0,3.2,No,1952
+Restaurant_1136,Whitefield,Chinese,370.0,3.8,No,2618
+Restaurant_1137,Indiranagar,Biryani,530.0,2.8,Yes,1336
+Restaurant_1138,BTM,Chinese,690.0,3.8,No,2129
+Restaurant_1139,Jayanagar,South Indian,650.0,3.3,Yes,1867
+Restaurant_1140,BTM,Biryani,880.0,,Yes,2279
+Restaurant_1141,HSR Layout,Italian,1090.0,3.8,No,1110
+Restaurant_1142,Indiranagar,North Indian,710.0,3.6,Yes,71
+Restaurant_1143,BTM,South Indian,510.0,4.1,Yes,1504
+Restaurant_1144,Koramangala,South Indian,280.0,3.2,No,1190
+Restaurant_1145,Jayanagar,Fast Food,970.0,3.6,Yes,815
+Restaurant_1146,MG Road,Chinese,570.0,4.0,No,2182
+Restaurant_1147,Indiranagar,South Indian,580.0,3.8,Yes,2798
+Restaurant_1148,Koramangala,South Indian,600.0,3.8,Yes,1885
+Restaurant_1149,Whitefield,Italian,700.0,4.1,Yes,2218
+Restaurant_1150,HSR Layout,Italian,710.0,3.4,Yes,550
+Restaurant_1151,Jayanagar,Biryani,530.0,3.3,Yes,635
+Restaurant_1152,Indiranagar,Continental,570.0,3.9,Yes,1624
+Restaurant_1153,Indiranagar,Continental,470.0,3.5,No,115
+Restaurant_1154,MG Road,North Indian,450.0,4.1,No,1164
+Restaurant_1155,MG Road,Continental,450.0,3.8,Yes,1718
+Restaurant_1156,Whitefield,Fast Food,570.0,3.3,Yes,2833
+Restaurant_1157,HSR Layout,North Indian,410.0,3.8,Yes,1918
+Restaurant_1158,Whitefield,Biryani,200.0,3.2,No,2059
+Restaurant_1159,Koramangala,Italian,510.0,4.0,No,2290
+Restaurant_1160,Koramangala,Continental,,3.0,Yes,378
+Restaurant_1161,Whitefield,Chinese,,4.1,No,1284
+Restaurant_1162,HSR Layout,Italian,460.0,3.7,Yes,955
+Restaurant_1163,Whitefield,Fast Food,700.0,3.5,Yes,2237
+Restaurant_1164,HSR Layout,Italian,370.0,3.9,Yes,302
+Restaurant_1165,HSR Layout,Fast Food,300.0,3.8,Yes,593
+Restaurant_1166,BTM,Fast Food,570.0,4.2,Yes,2852
+Restaurant_1167,Jayanagar,Fast Food,500.0,4.2,Yes,2232
+Restaurant_1168,HSR Layout,Biryani,350.0,3.8,No,2180
+Restaurant_1169,MG Road,Fast Food,790.0,3.2,Yes,2284
+Restaurant_1170,HSR Layout,Fast Food,400.0,3.4,Yes,2501
+Restaurant_1171,HSR Layout,Chinese,15000.0,3.6,Yes,2485
+Restaurant_1172,HSR Layout,North Indian,850.0,4.1,Yes,774
+Restaurant_1173,BTM,South Indian,720.0,3.4,Yes,2689
+Restaurant_1174,BTM,North Indian,380.0,3.4,Yes,2122
+Restaurant_1175,Koramangala,Fast Food,520.0,4.4,Yes,1314
+Restaurant_1176,BTM,Chinese,370.0,3.6,Yes,1424
+Restaurant_1177,MG Road,Italian,830.0,3.3,Yes,437
+Restaurant_1178,MG Road,Chinese,830.0,3.9,Yes,2675
+Restaurant_1179,BTM,Fast Food,1160.0,3.6,No,2982
+Restaurant_1180,Whitefield,Chinese,1350.0,3.0,No,2024
+Restaurant_1181,Jayanagar,Continental,460.0,4.1,Yes,2869
+Restaurant_1182,BTM,Chinese,770.0,3.3,Yes,116
+Restaurant_1183,HSR Layout,Fast Food,280.0,3.6,Yes,668
+Restaurant_1184,Indiranagar,Biryani,630.0,3.6,Yes,1192
+Restaurant_1185,Jayanagar,Continental,700.0,3.7,Yes,2322
+Restaurant_1186,Jayanagar,Chinese,410.0,2.6,Yes,1235
+Restaurant_1187,MG Road,South Indian,450.0,3.4,Yes,164
+Restaurant_1188,Jayanagar,South Indian,830.0,4.1,No,905
+Restaurant_1189,BTM,Chinese,700.0,4.2,Yes,1531
+Restaurant_1190,HSR Layout,Biryani,1100.0,3.2,Yes,1630
+Restaurant_1191,HSR Layout,Italian,1040.0,4.0,Yes,1002
+Restaurant_1192,Koramangala,Fast Food,310.0,3.3,No,2302
+Restaurant_1193,HSR Layout,South Indian,480.0,3.4,No,1333
+Restaurant_1194,HSR Layout,Italian,390.0,3.5,Yes,1395
+Restaurant_1195,MG Road,Chinese,790.0,3.6,No,2443
+Restaurant_1196,HSR Layout,Italian,660.0,4.1,Yes,2816
+Restaurant_1197,Koramangala,Continental,400.0,3.7,No,2471
+Restaurant_1198,Indiranagar,North Indian,420.0,3.5,No,1311
+Restaurant_1199,BTM,South Indian,940.0,4.0,Yes,2772
+Restaurant_1200,MG Road,Chinese,500.0,3.2,No,768

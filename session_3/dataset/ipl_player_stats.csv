@@ -1,0 +1,16 @@
+player_id,player_name,team,player_role,matches,runs,wickets,strike_rate,player_age,venue
+IPL_101,Virat Kohli,RCB,Batsman,237,7263,4,130.0,35.0,Chinnaswamy
+IPL_102,Rohit Sharma,,Batsman,243,6211,15,130.05,36.0,Wankhede
+IPL_103,MS Dhoni,CSK,Wicketkeeper,250,5082,0,135.9,,Chepauk
+IPL_104,KL Rahul,LSG,Batsman,118,4163,0,134.6,31.0,Ekana
+IPL_105,Hardik Pandya,GT,Allrounder,123,2309,53,,30.0,Narendra Modi Stadium
+IPL_106,Jasprit Bumrah,MI,Bowler,120,165,145,11.2,,Wankhede
+IPL_107,Ravindra Jadeja,CSK,Allrounder,226,2692,152,128.6,35.0,Chepauk
+IPL_108,Rishabh Pant,,Wicketkeeper,98,2838,0,147.9,26.0,Arun Jaitley
+IPL_109,Shubman Gill,GT,Batsman,91,2790,0,134.1,24.0,Narendra Modi Stadium
+IPL_110,Suryakumar Yadav,MI,Batsman,139,3249,0,143.3,,Wankhede
+IPL_111,Shreyas Iyer,KKR,Batsman,101,2776,0,,29.0,Eden Gardens
+IPL_112,Mohammed Shami,SRH,Bowler,110,79,127,75.0,33.0,Rajiv Gandhi Stadium
+IPL_113,Yuzvendra Chahal,RR,Bowler,145,45,187,42.1,,Sawai Mansingh
+IPL_114,Sanju Samson,,Wicketkeeper,152,3888,0,137.5,29.0,Sawai Mansingh
+IPL_115,Rashid Khan,GT,Bowler,109,443,139,138.2,25.0,Narendra Modi Stadium
